@@ -1,4 +1,4 @@
-### Simple React Todo for Practice (w/o Flux)
+### Simple React Todo for Practice
 Pair Programming Exercise with [@aubreywullschleger](https://github.com/aubreywullschleger)
 ```
 npm install
